@@ -11,7 +11,7 @@
       * [Evaluación](#evaluación)
       * [Contacto](#contacto)
       * [Bibliografía](#bibliografía)
-      * [Política de integridad académica](#política-de-integridad-académica)
+      * [Política de integridad académica](#pol%C3%ADtica-de-integridad-academica)
   * [Wiki](#wiki)
   * [Issues](#issues)
       * [Etiquetas](#etiquetas)
@@ -51,50 +51,50 @@ Al finalizar el curso, el estudiante estará ́capacitado para:
 
 ## Contenidos
 
-    1. Motivación
-        - la necesidad de ingneiería de software
-        - software como servicio
-        - desafíos y oportunidades
-    2. Proceso
-        - la necesidad de proceso
-        - modelo de cascada
-        - procesos iterativos: protototipos y RUP
-        - procesos incrementales
-        - métodos ágiles
-        - Scrum y Kanban
-    3. Requisitos
-        - funcionales y no funcionales
-        - relatos de usuarios
-        - casos de uso
-    4. Diseño
-        - modelo de dominio
-        - atributos de un buen diseño
-        - acoplamiento y cohesión
-        - diagramas UML de clases, secuencia y estados
-        - patrones de diseño
-    5. Arquitectura
-        - conceptos fundamentales
-        - atributos que impactan la arquitectura
-        - patrones arquitectónicos
-        - arquitecturas cliente servidor y multicapas
-        - arquitectura orientada a servicios
-        - microservicios
-    6. Gestión del Proyecto
-        - actividades de gestión
-        - estimaciones
-        - planeación de producto, release  y sprint
-        - gestión de personas
-    7. Aseguramiento de Calidad (QA)
-        - definiciones de calidad
-        - prevención de defectos
-        - detección y eliminación de defectos
-        - testing
-    8. Métodos Estadísticos en Ingeniería de Software
-        - principales desafíos
-        - métricas
-        - métricas para ingeniería de software
-        - aplicaciones de distribución binomial y geométrica
-        - aplicación de teorema de Bayes
+   1. Motivación
+       - la necesidad de ingneiería de software
+       - software como servicio
+       - desafíos y oportunidades
+   2. Proceso
+       - la necesidad de proceso
+       - modelo de cascada
+       - procesos iterativos: protototipos y RUP
+       - procesos incrementales
+       - métodos ágiles
+       - Scrum y Kanban
+   3. Requisitos
+       - funcionales y no funcionales
+       - relatos de usuarios
+       - casos de uso
+   4. Diseño
+       - modelo de dominio
+       - atributos de un buen diseño
+       - acoplamiento y cohesión
+       - diagramas UML de clases, secuencia y estados
+       - patrones de diseño
+   5. Arquitectura
+       - conceptos fundamentales
+       - atributos que impactan la arquitectura
+       - patrones arquitectónicos
+       - arquitecturas cliente servidor y multicapas
+       - arquitectura orientada a servicios
+       - microservicios
+   6. Gestión del Proyecto
+       - actividades de gestión
+       - estimaciones
+       - planeación de producto, release  y sprint
+       - gestión de personas
+   7. Aseguramiento de Calidad (QA)
+       - definiciones de calidad
+       - prevención de defectos
+       - detección y eliminación de defectos
+       - testing
+   8. Métodos Estadísticos en Ingeniería de Software
+       - principales desafíos
+       - métricas
+       - métricas para ingeniería de software
+       - aplicaciones de distribución binomial y geométrica
+       - aplicación de teorema de Bayes
 
 ## Metodología
 El  curso  se  desarrolla  en  base  a clases  expositivas  y  practicas  por  una  parte,  y desarrollo  de  un proyecto por  otro. El  material  no  necesariamente es  presentado  en  forma  lineal  (de  acuerdo  a
@@ -122,14 +122,14 @@ El  medio  de  información  oficial  del  curso  es  el  sitio  web,  por  lo  
 
 ## Bibliografía
 
-    - D. Bell, Software Engineering for Students, 4th Ed, Addison-Wesley 2005
-    - P. Jalote, Concise Introduction to Software Engineering, Springer-Verlag 2008
-    - J. Loeliger and M. McCullough, Version Control with GIT, * 2nd Ed, O´Reilly 2012 K. Rubin, Essential Scrum, Addison-Wesley 2013
-    - A. Pham amd P. Pham, Scrum in Action, Course Technology * PTR 2012
-    - R. Miles and K. Hamilton, Learning UML 2.0, O´Reilly 2006 C. Lasater, Design Patterns, Wordware Publishing 2007
-    - M. Hartl, Ruby on Rails Tutorial 3rd Ed, Addison Wesley * 2015
-    - R. Olsen, Design Patterns in Ruby, Addison Wesley 2007 D. Chelimsky, The RSpec Book, Pragmatic Bookshelf 2012
-    - M. Wynne and A. Hellesoy, The Cucumber Book, Pragmatic Bookshelf 2012
+   - D. Bell, Software Engineering for Students, 4th Ed, Addison-Wesley 2005
+   - P. Jalote, Concise Introduction to Software Engineering, Springer-Verlag 2008
+   - J. Loeliger and M. McCullough, Version Control with GIT, * 2nd Ed, O´Reilly 2012 K. Rubin, Essential Scrum, Addison-Wesley 2013
+   - A. Pham amd P. Pham, Scrum in Action, Course Technology * PTR 2012
+   - R. Miles and K. Hamilton, Learning UML 2.0, O´Reilly 2006 C. Lasater, Design Patterns, Wordware Publishing 2007
+   - M. Hartl, Ruby on Rails Tutorial 3rd Ed, Addison Wesley * 2015
+   - R. Olsen, Design Patterns in Ruby, Addison Wesley 2007 D. Chelimsky, The RSpec Book, Pragmatic Bookshelf 2012
+   - M. Wynne and A. Hellesoy, The Cucumber Book, Pragmatic Bookshelf 2012
 
 
 ## Política de Integridad Academica
