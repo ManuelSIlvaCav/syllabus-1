@@ -37,7 +37,7 @@ ________________________
 | Ricardo Lira | [@rlira2](https://github.com/rlira2) | [rlira2@uc.cl](rlira2@uc.cl)|
 | Isidora Palma | [@isipalma](https://github.com/isipalma) | [impalma@uc.cl](impalma@uc.cl) |
 | M. Fernanda Sepúlveda | [@mf222](https://github.com/mf222) | [mfsepulveda@uc.cl](mfsepulveda@uc.cl) |
-| Jaime Yañez | [@jaimepata](https://github.com/jaimepata)  | [jsyanez@uc.c](jsyanez@uc.c) |
+| Jaime Yañez | [@jaimepata](https://github.com/jaimepata)  | [jsyanez@uc.cl](jsyanez@uc.cl) |
 
 ## Objetivos
 
@@ -168,13 +168,13 @@ Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categoría
 ## Procedimiento
 
 Antes de postear:
-    - Busca en Internet para encontrar la solución.
-    - Si pasan horas y el problema persiste, entra a [Issues](https://github.com/IIC2143-2017/syllabus/issues).
-    - Busca si alguien tiene la misma pregunta o problema.
-        - Si encuentras un post marcado como resuelto, pero no te satisface la respuesta, puedes comentar la issue y __volver a abrirla__.
-    - En caso de no encontrar un post que te sirva, lo creas presionando __[New issue](https://github.com/IIC2143-2017/syllabus/issues/new)__.
-    - Escribe una entrada __explicando bien el problema o pregunta__.
-    - Publica.
+  * Busca en Internet para encontrar la solución.
+  * Si pasan horas y el problema persiste, entra a [Issues](https://github.com/IIC2143-2017/syllabus/issues).
+  * Busca si alguien tiene la misma pregunta o problema.
+  * Si encuentras un post marcado como resuelto, pero no te satisface la respuesta, puedes comentar la issue y __volver a abrirla__.
+  * En caso de no encontrar un post que te sirva, lo creas presionando __[New issue](https://github.com/IIC2143-2017/syllabus/issues/new)__.
+  * Escribe una entrada __explicando bien el problema o pregunta__.
+  * Publica.
 
 Tanto al publicar como comentar, debes atenerte a las __normas del curso__. Además, debes utilizar __[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)__ cuando sea necesario. Por ejemplo, cuando se necesita mostrar código o mensajes de error.
 
