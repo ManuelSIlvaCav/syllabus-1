@@ -141,9 +141,9 @@ Obviamente, está permitido usar material disponible públicamente, por ejemplo,
 
 ________________________
 
-# Wiki
+# [Wiki](https://github.com/IIC2143-2017/syllabus/wiki)
 
-Próximamente.
+El wiki dle curso mantendrá tutoriales para la instalación y uso de herramientas o paquetes. Puedes acceder en el siguiente link: [Wiki](https://github.com/IIC2143-2017/syllabus/wiki). 
 
 # Issues
 
